@@ -7,3 +7,7 @@ After you have made the modification you should see a red symbol on the commit m
 # State reset / discarding changes
 
 If you want to go back to a state identical to the remote, i.e., discard all changes, you can click the reload button in the menu. If you have any uncommited changes it will ask if it is okay to discard your changes. If you do so, you get a fresh snapshot of the remote repository.
+
+# Next step
+
+Continue with step 3. This time you can try to use the label tree to isolate the step-3-labelled note in the search.
