@@ -29,3 +29,7 @@ function add(a: number, b: number): number {
 ```
 
 Highlighting should work both in the note viewer and in the editor.
+
+# Next step
+
+It's time to experiment a bit. Go back to search by pressing `CTRL + p` and start typing _create new entry..._ Press `ENTER` to select the note.
